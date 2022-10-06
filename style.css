@@ -1,0 +1,13 @@
+elemen {
+    text-align: right;
+}
+
+h3, ol {
+    color: red;
+}
+
+legend {
+    color: brown;
+    font-weight: bold;
+    font-size: 22px;
+  }
